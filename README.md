@@ -6,14 +6,14 @@
 </div>
 
 
-## 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me 
 
 <br>
 <pre>
 💻 A passionate frontend developer from Palestine
-📚 I have a Bachelor degree in Computer Science from Birzeit University.
+📚 I have a Bachelor degree in Computer Science from <a href="https://www.birzeit.edu/en" target="blank">Birzeit University</a>.
 📝 I have a strong interest in OOP, Data structure, and Frontend development.
-🔭 I currently have Technical Training in React with Gaza Sky Geeks.
+🔭 I currently have Technical Training in React with <a href="https://gazaskygeeks.com/" target="blank">Gaza Sky Geeks</a>.
 👨‍💻 All of my projects are available at : <a href="https://github.com/abdallahjabr47?tab=repositories" target="blank">Repositories</a>
 🚩 Interested in Designing, Drawing, Photographing and Filmmaking.
 <🤔 I’m currently open for a new job opportunity, this is <a href="https://drive.google.com/file/d/1AdO39G_D4QrqjAnBoVvjhif7l2rUNyl_/view?
