@@ -16,7 +16,7 @@
 🔭 I currently have Technical Training in React with <a href="https://gazaskygeeks.com/" target="blank">Gaza Sky Geeks</a>.
 👨‍💻 All of my projects are available at : <a href="https://github.com/abdallahjabr47?tab=repositories" target="blank">Repositories</a>
 🚩 Interested in Designing, Drawing, Photographing and Filmmaking.
-<🤔 I’m currently open for a new job opportunity, this is <a href="https://drive.google.com/file/d/1AdO39G_D4QrqjAnBoVvjhif7l2rUNyl_/view?
+🤔 I’m currently open for a new job opportunity, this is <a href="https://drive.google.com/file/d/1AdO39G_D4QrqjAnBoVvjhif7l2rUNyl_/view?
 usp=share_link" target="blank">My resume</a>
 📫 How to reach me: abdallah.jabr47@gmail.com
 
