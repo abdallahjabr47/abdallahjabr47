@@ -86,7 +86,7 @@ usp=share_link" target="blank">My resume</a>
 
 <br>
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
+<a href="https://www.facebook.com/abood.jabr.47/">
   <img align="center" alt="Abdallah Jabr | Facebook" width="30px" src="https://img.icons8.com/color/48/null/facebook-new.png" /></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abdallah-jabr47/" target="_blank">
   <img align="center" alt="Abdallah Jabr | Linkedin" width="30px" src="https://img.icons8.com/color/48/null/linkedin.png" /></a> &nbsp;&nbsp;
