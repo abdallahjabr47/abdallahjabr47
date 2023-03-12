@@ -12,7 +12,7 @@
 <pre>
 💻 A passionate frontend developer from Palestine
 📚 I have a Bachelor degree in Computer Science from Birzeit University.
-📝 I have a strong interest in OOP, Data structure, Html, CSS, and Java script.
+📝 I have a strong interest in OOP, Data structure, and Frontend development.
 🔭 I currently have Technical Training in React with Gaza Sky Geeks.
 👨‍💻 All of my projects are available at : <a href="https://github.com/abdallahjabr47?tab=repositories" target="blank">Repositories</a>
 🚩 Interested in Designing, Drawing, Photographing and Filmmaking.
