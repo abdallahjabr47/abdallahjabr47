@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi there , I'm Abdallah Jabr </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
+
 <div align=center>
       <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
 </div>
@@ -10,10 +11,10 @@
 
 <br>
 <pre>
-💻 A passionate frontend developer from Palestine
+💻 A passionate frontend developer from *Palestine*
 📚 I have a Bachelor degree in Computer Science from <a href="https://www.birzeit.edu/en" target="blank">Birzeit University</a>.
 📝 I have a strong interest in OOP, Data structure, and Frontend development.
-🔭 I currently have Technical Training in React with <a href="https://gazaskygeeks.com/" target="blank">Gaza Sky Geeks</a>.
+🔭 I currently training React.js with <a href="https://gazaskygeeks.com/" target="blank">Gaza Sky Geeks</a>.
 👨‍💻 All of my projects are available at : <a href="https://github.com/abdallahjabr47?tab=repositories" target="blank">Repositories</a>
 🚩 Interested in Sport, Designing, Drawing, Photographing and Filmmaking.
 🤔 I’m currently open for a new job opportunity, this is <a href="https://drive.google.com/file/d/1AdO39G_D4QrqjAnBoVvjhif7l2rUNyl_/view?
@@ -104,5 +105,7 @@ usp=share_link" target="blank">My resume</a>
 </p>
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   
- Credit: [Abdallah Jabr](https://github.com/abdallahjabr47)
+Credit: [Abdallah Jabr](https://github.com/abdallahjabr47) 
+
+<!-- <p> <img src="https://komarev.com/ghpvc/?username=abdallahjabr47&label=Profile%20views&color=f7b355&style=flat" alt="abdallahjabr47" /> </p> -->
 
